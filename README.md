@@ -70,18 +70,28 @@ The complete working sequence of the system is as follows:
 
 ---
 
-## 📸 Screenshots
+## Simulation Results
 
-The `screenshots/` folder contains images of the following stages:
+### Power ON
+![Power ON](screenshots/01_power_on.png)
 
-1. Power ON screen  
-2. Mode selection menu  
-3. Time setting screen  
-4. Temperature setting screen  
-5. Pre-heating stage  
-6. Cooking running (countdown)  
+### Mode Selection
+![Mode Selection](screenshots/02_mode_selection.png)
 
-These screenshots demonstrate the complete functional flow of the system.
+### Time Setting
+![Set Time](screenshots/03_set_time.png)
+
+### Temperature Setting
+![Set Temperature](screenshots/04_set_temperature.png)
+
+### Preheating Stage
+![Preheating](screenshots/05_preheating.png)
+
+### Cooking in Progress
+![Cooking Running](screenshots/06_cooking_running.png)
+
+### Time-Up Indication
+![Time Up](screenshots/07_time_up_message.png)
 
 ---
 
