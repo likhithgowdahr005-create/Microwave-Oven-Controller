@@ -73,25 +73,25 @@ The complete working sequence of the system is as follows:
 ## Simulation Results
 
 ### Power ON
-![Power ON](screenshots/01_power_on.png)
+![Power ON](images/01_power_on.png)
 
 ### Mode Selection
-![Mode Selection](screenshots/02_mode_selection.png)
+![Mode Selection](images/02_mode_selection.png)
 
 ### Time Setting
-![Set Time](screenshots/03_set_time.png)
+![Set Time](images/03_set_time.png)
 
 ### Temperature Setting
-![Set Temperature](screenshots/04_set_temperature.png)
+![Set Temperature](images/04_set_temperature.png)
 
 ### Preheating Stage
-![Preheating](screenshots/05_preheating.png)
+![Preheating](images/05_preheating.png)
 
 ### Cooking in Progress
-![Cooking Running](screenshots/06_cooking_running.png)
+![Cooking Running](images/06_cooking_running.png)
 
 ### Time-Up Indication
-![Time Up](screenshots/07_time_up_message.png)
+![Time Up](images/07_time_up_message.png)
 
 ---
 
